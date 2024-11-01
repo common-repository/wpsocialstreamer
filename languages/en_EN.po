@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPSocialStreamer\n"
+"POT-Creation-Date: 2012-11-09 19:06-0000\n"
+"PO-Revision-Date: 2012-11-09 19:06-0000\n"
+"Last-Translator: Digital Builder Ltd <support@digital-buillder.co.uk>\n"
+"Language-Team: Daniel Bakovic, Ben Reed, Onedin Ibrocevic\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\stream\\wp-content\\plugins"
+"\\wpsocialstreamer\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/buddypress-options.php:19 includes/buddypress-options.php:54
+#: includes/admin/admin.php:21 includes/admin/admin.php:22
+msgid "Social Streamer"
+msgstr ""
+
+#: includes/buddypress-options.php:93 includes/admin/admin.php:150
+msgid "Form verification failed! Please go back and try again"
+msgstr ""
+
+#: includes/buddypress-options.php:100
+msgid "Social Streamer Settings"
+msgstr ""
+
+#: includes/buddypress-options.php:106
+msgid ""
+"Select activities that you want to share on your Facebook wall with your "
+"friends."
+msgstr ""
+
+#: includes/buddypress-options.php:107
+msgid "Post to Facebook when:"
+msgstr ""
+
+#: includes/buddypress-options.php:124 includes/admin/admin.php:175
+msgid "Activities / Events"
+msgstr ""
+
+#: includes/buddypress-options.php:125 includes/admin/admin.php:176
+msgid "Yes"
+msgstr ""
+
+#: includes/buddypress-options.php:126 includes/admin/admin.php:177
+msgid "No"
+msgstr ""
+
+#: includes/buddypress-options.php:161 includes/admin/admin.php:211
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/admin-settings.php:65
+msgid "WPSocialStreamer"
+msgstr ""
+
+#: includes/admin/admin-settings.php:73
+msgid "Options saved."
+msgstr ""
+
+#: includes/admin/admin-settings.php:78
+msgid "Error! Try Again!"
+msgstr ""
+
+#: includes/admin/admin-settings.php:88
+msgid "Facebook Settings"
+msgstr ""
+
+#: includes/admin/admin-settings.php:100
+msgid "Facebook Login Settings"
+msgstr ""
+
+#: includes/admin/admin-settings.php:102
+msgid ""
+"This step must be completed before using the plugin. You must make a "
+"Facebook Application to continue."
+msgstr ""
+
+#: includes/admin/admin-settings.php:103
+msgid "Before we begin, you need to create a"
+msgstr ""
+
+#: includes/admin/admin-settings.php:103
+msgid "Facebook Application."
+msgstr ""
+
+#: includes/admin/admin-settings.php:104
+msgid "To do so, follow these steps:"
+msgstr ""
+
+#: includes/admin/admin-settings.php:106
+msgid "Create your application"
+msgstr ""
+
+#: includes/admin/admin-settings.php:107
+msgid ""
+"Look for Site URL field in the Web Site tab and enter your site URL in this "
+"field:"
+msgstr ""
+
+#: includes/admin/admin-settings.php:108
+msgid "After this, go to the"
+msgstr ""
+
+#: includes/admin/admin-settings.php:108
+msgid "Facebook Application List page"
+msgstr ""
+
+#: includes/admin/admin-settings.php:108
+msgid "and select your newly created application"
+msgstr ""
+
+#: includes/admin/admin-settings.php:109
+msgid "Copy the values from the field: App ID/API key, and enter it here:"
+msgstr ""
+
+#: includes/admin/admin-settings.php:112
+msgid "Facebook App ID/API Key:"
+msgstr ""
+
+#: includes/admin/admin-settings.php:125
+msgid "Save Settings"
+msgstr ""
+
+#: includes/admin/admin-settings.php:199
+#, php-format
+msgid ""
+"To be able to use this extension you must install: <a href=\"%s\" target="
+"\"_blank\">%s</a>!"
+msgstr ""
+
+#: includes/admin/admin-settings.php:207
+msgid "Activate "
+msgstr ""
+
+#: includes/admin/admin-settings.php:210
+msgid "On"
+msgstr ""
+
+#: includes/admin/admin-settings.php:211
+msgid "Off"
+msgstr ""
+
+#: includes/admin/admin-settings.php:214
+msgid "Select to activate/deactivate streaming events"
+msgstr ""
+
+#: includes/admin/admin-settings.php:236
+msgid "Available Variables:"
+msgstr ""
+
+#: includes/admin/admin.php:30 includes/admin/admin.php:31
+msgid "Admin Settings"
+msgstr ""
+
+#: includes/admin/admin.php:115
+msgid "Social Streamer User Settings"
+msgstr ""
+
+#: includes/admin/admin.php:116
+msgid ""
+"Here you can set up your personal settings. Activate or deactivate events "
+"that you want to share on your Facebook wall."
+msgstr ""
+
+#: includes/admin/admin.php:143
+msgid "Settings updated.."
+msgstr ""
+
+#: includes/extensions/bbPress.php:31
+msgid "bbPress"
+msgstr ""
+
+#: includes/extensions/bbPress.php:43
+msgid "I've added a new topic: %TOPIC_LINK%"
+msgstr ""
+
+#: includes/extensions/bbPress.php:46
+msgid "I posted a new forum topic."
+msgstr ""
+
+#: includes/extensions/bbPress.php:51 includes/extensions/bbPress.php:64
+msgid "Topic name"
+msgstr ""
+
+#: includes/extensions/bbPress.php:56
+msgid "I just added a new reply on %TOPIC_LINK%!"
+msgstr ""
+
+#: includes/extensions/bbPress.php:59
+msgid "I left a reply on a forum."
+msgstr ""
+
+#: includes/extensions/buddypress.php:33
+msgid "BuddyPress"
+msgstr ""
+
+#: includes/extensions/buddypress.php:45
+msgid "I've updated my activity stream: %CONTENT%"
+msgstr ""
+
+#: includes/extensions/buddypress.php:48
+msgid "I post an activity update."
+msgstr ""
+
+#: includes/extensions/buddypress.php:53
+msgid "Activity content"
+msgstr ""
+
+#: includes/extensions/buddypress.php:58
+msgid "I just added a new avatar on %SITE_NAME%!"
+msgstr ""
+
+#: includes/extensions/buddypress.php:61
+msgid "I add an avatar."
+msgstr ""
+
+#: includes/extensions/buddypress.php:66 includes/extensions/buddypress.php:79
+#: includes/extensions/buddypress.php:92
+#: includes/extensions/buddypress.php:106
+msgid "Site name"
+msgstr ""
+
+#: includes/extensions/buddypress.php:71
+msgid "Wohoo, I just made a new friend on %SITE_NAME%!"
+msgstr ""
+
+#: includes/extensions/buddypress.php:74
+msgid "I add a new friend."
+msgstr ""
+
+#: includes/extensions/buddypress.php:84
+msgid "I just made the group %GROUP_NAME% on %SITE_NAME%!"
+msgstr ""
+
+#: includes/extensions/buddypress.php:87
+msgid "I create a new group."
+msgstr ""
+
+#: includes/extensions/buddypress.php:93
+#: includes/extensions/buddypress.php:107
+msgid "Group name"
+msgstr ""
+
+#: includes/extensions/buddypress.php:98
+msgid "I just joined the group %GROUP_NAME% on %SITE_NAME%!"
+msgstr ""
+
+#: includes/extensions/buddypress.php:101
+msgid "I join a new group."
+msgstr ""
+
+#: includes/extensions/gd-star-rating.php:29
+msgid "GD Star Rating"
+msgstr ""
+
+#: includes/extensions/gd-star-rating.php:41
+msgid "Hey, I just rated the post \"%POST_NAME%\" with %VOTE% stars!"
+msgstr ""
+
+#: includes/extensions/gd-star-rating.php:44
+msgid "I rate a post."
+msgstr ""
+
+#: includes/extensions/gd-star-rating.php:49
+#: includes/extensions/wordpress.php:50 includes/extensions/wordpress.php:63
+#: includes/extensions/wp-favorite-posts.php:49
+msgid "Name of the post"
+msgstr ""
+
+#: includes/extensions/gd-star-rating.php:50
+msgid "User rating"
+msgstr ""
+
+#: includes/extensions/wordpress.php:30
+msgid "WordPress"
+msgstr ""
+
+#: includes/extensions/wordpress.php:42
+msgid "Hey, I just added %POST_NAME%!"
+msgstr ""
+
+#: includes/extensions/wordpress.php:45
+msgid "I publish a new post."
+msgstr ""
+
+#: includes/extensions/wordpress.php:55
+msgid "Wohoo, I just commented on %POST_LINK%!"
+msgstr ""
+
+#: includes/extensions/wordpress.php:58
+msgid "I post a new comment."
+msgstr ""
+
+#: includes/extensions/wordpress.php:64
+msgid "Post content"
+msgstr ""
+
+#: includes/extensions/wp-favorite-posts.php:29
+msgid "WP Favorite Posts"
+msgstr ""
+
+#: includes/extensions/wp-favorite-posts.php:41
+msgid "Hey, I just added \"%POST_NAME%\" to my favorites!"
+msgstr ""
+
+#: includes/extensions/wp-favorite-posts.php:44
+msgid "I add a post to my favorites."
+msgstr ""

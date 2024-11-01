@@ -1,0 +1,15 @@
+#facebook_login{}
+#facebook_login a.wpss_fb{
+	display:block;
+	background:url('../images/fb-btn.png') no-repeat top left;
+	font-size:10px;
+	color:#fff;
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	padding:4px 0 0 31px;
+	height:28px;
+	width:150px;
+	overflow:hidden;
+}
+#facebook_login a.wpss_fb:hover{cursor:pointer;}
